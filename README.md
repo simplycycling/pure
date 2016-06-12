@@ -8,7 +8,7 @@ with your idiot buddies?
 This is your lucky day. You get to help me finish off this stupid game that
 I play.
 
-Backstory - I ride alot. Sometimes I get bored, when I'm riding a road that
+Backstory - I ride a lot. Sometimes I get bored, when I'm riding a road that
 I've ridden 80 zillion times before. So while I'm riding, I look for patterns
 in the time field of my bike computer (Garmin 705), especially symmetry: 14:41, 1:00:01, things like that. And when I'd see these patterns, I'd make
   a sound in my head, kind of like a video game sound, like when Mario gets
@@ -82,8 +82,50 @@ with mixed values worth less. 10:01, 1:07:01, etc.
 Mixed values that start in the 50 minute range are worth 45, in the 40 minute
 range 35, in the 10 minute range 5 points. 
 
+### Ok, but how do I actually GET a hand?
+
+You get a hand when you actually see it. So if you look at your bike computer
+at 22:23, you missed the solid, palindrome hand 22:22.
+
+### Important, immutable rule
+
+When you look at your bike computer, you can ONLY see the hand.
+
+In other words, you don't get the hand, and as follows you don't get the
+points, if it's 24:40, and you just watch your computer until it turns to
+24:42, it doesn't count. If you look at it, and it's 24:42, and while you're
+watching, it turns to 24:43, it doesn't count.
+
+If you're wondering, that's called leaking, or a leaked hand. Leaked hands are
+worth 0.
+
 ### Keeping score
 
 Keep it in your head, dingbat. Math isn't hard.
 
+## Why do you call it Pure?
+
+That's kind of a long story. I'd look at my garmin and see that I was 3 seconds
+away from a hand, and I'd look up, count to 3 in my head, then look back down
+and get the hand. For some reason, I started valuing that less than if I looked
+down at my Garmin and got a non-leaked hand, without having to look away and
+count. And I started referring to that as a "pure" hand. 
+
+Pure hands are the best hands. No difference in value, but if you find yourself
+always counting your way into good hands, you might be a count doper!
+
+## What a great game! But it doesn't sound complete - how do I contribute?
+
+This is github - a collaborative platform. If you want to add rules, open
+a github account, and then look up a couple of topics:
+
+"How do I clone a git repository?"
+"How do I contribute to a git repo?"
+"How do I do a pull request?"
+
+It's all pretty easy. And you can, of course, just fork it without actually
+contributing to the original, or you can send your contribution my way (via
+a pull request). Although I will reserve the right to not accept new rules or
+contributions if I don't like them; however, I will explain why, if I do turn
+down your PR.
 
