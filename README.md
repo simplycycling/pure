@@ -82,6 +82,10 @@ with mixed values worth less. 10:01, 1:07:01, etc.
 Mixed values that start in the 50 minute range are worth 45, in the 40 minute
 range 35, in the 10 minute range 5 points. 
 
+Idea from Dave Bartel and Tom Ligman, who obviously can't do a pull request
+- you start out the game as a Fred, and work your way up to Pro. It's going to
+  take me a few minutes to work that out.
+
 ### Ok, but how do I actually GET a hand?
 
 You get a hand when you actually see it. So if you look at your bike computer
